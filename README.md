@@ -1,18 +1,22 @@
-# NMAMIT Frontend Website
+# NMAMIT Frontend
 
-A static frontend website developed for NMAM Institute of Technology. The project provides information about various departments, learning resources, campus contact details, and a simple login page through a clean and organized user interface.
+A responsive frontend website developed for NMAM Institute of Technology that provides department information, academic resources, contact details, and a simple login interface. The project is built using HTML and CSS and serves as an informational portal for students and visitors.
+
+## Live Demo
+
+🌐 **Website:** https://atmikanayak.github.io/nmamit-frontend/
+
+---
 
 ## Features
 
 * Responsive homepage
-* Department information pages
-* Computer Science & Engineering section
-* Information Science & Engineering section
-* Electronics & Communication Engineering section
-* Resource portal
-* Contact page
+* Department pages for CSE, ISE, and ECE
+* Academic resources section
+* Contact information page
 * Login form
-* Navigation menu with department dropdown
+* Department navigation menu
+* Clean and organized UI
 
 ---
 
@@ -31,7 +35,7 @@ A static frontend website developed for NMAM Institute of Technology. The projec
 
 ![Home Page](images/hoome.png)
 
-### CSE Department
+### Computer Science Department
 
 ![CSE Department](images/CSE.jpg)
 
@@ -84,43 +88,43 @@ nmamit-frontend/
 
 * Introduction to NMAMIT
 * Department navigation
-* Quick access links
+* Quick access to resources and contact information
 
 ### Department Pages
 
-* Computer Science & Engineering overview
-* Information Science & Engineering overview
-* Electronics & Communication Engineering overview
-* Department details and placement information
+* Computer Science & Engineering (CSE)
+* Information Science & Engineering (ISE)
+* Electronics & Communication Engineering (ECE)
+* Department overview and placement information
 
 ### Resources Page
 
-* Educational resources
-* VTU learning links
-* NMAMIT learning platforms and references
+* VTU e-learning resources
+* NMAMIT academic resources
+* Useful educational links for students
 
 ### Contact Page
 
 * Campus address
-* Contact information
+* Institutional contact information
 * Administrative contact details
 
 ### Login Page
 
-* Basic student login form
-* User information fields
+* Basic login form
+* Student information fields
 
 ---
 
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AtmikaNayak/nmamit-frontend.git
 
 cd nmamit-frontend
 ```
 
-Open the project:
+Open:
 
 ```bash
 index.html
