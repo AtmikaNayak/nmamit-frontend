@@ -1,139 +1,73 @@
 # NMAMIT Frontend
 
-A responsive frontend website developed for NMAM Institute of Technology that provides department information, academic resources, contact details, and a simple login interface. The project is built using HTML and CSS and serves as an informational portal for students and visitors.
-
-## Live Demo
-
-🌐 **Website:** https://atmikanayak.github.io/nmamit-frontend/
-
----
+A static college website developed for NMAM Institute of Technology. The website provides department information, academic resources, contact details, and student-oriented navigation through a clean and responsive interface.
 
 ## Features
 
-* Responsive homepage
-* Department pages for CSE, ISE, and ECE
-* Academic resources section
-* Contact information page
-* Login form
-* Department navigation menu
-* Clean and organized UI
-
----
+- Homepage with institute information
+- Department pages (CSE, ISE, ECE)
+- Resources section
+- Contact page
+- Login page
+- Responsive layout
 
 ## Tech Stack
 
-### Frontend
-
-* HTML5
-* CSS3
-
----
-
-## Screenshots
-
-### Home Page
-
-![Home Page](images/hoome.png)
-
-### Computer Science Department
-
-![CSE Department](images/CSE.jpg)
-
-### Resources Page
-
-![Resources](images/resource.png)
-
-### Contact Page
-
-![Contact](images/contact.png)
-
----
+- HTML
+- CSS
 
 ## Project Structure
 
 ```text
 nmamit-frontend/
 ├── css
-│   ├── contact.css
-│   ├── cse.css
-│   ├── login.css
-│   ├── resources.css
-│   └── style.css
 ├── html
-│   ├── contact.html
-│   ├── cse.html
-│   ├── ece.html
-│   ├── ise.html
-│   ├── login.html
-│   └── resources.html
 ├── images
-│   ├── CSE.jpg
-│   ├── contact.jpg
-│   ├── contact.png
-│   ├── department.png
-│   ├── ece.jpg
-│   ├── hoome.png
-│   ├── ise.webp
-│   ├── logo.png
-│   ├── nmamit.jpg
-│   └── resource.png
 └── index.html
 ```
 
----
+## Running Locally
 
-## Pages
-
-### Home Page
-
-* Introduction to NMAMIT
-* Department navigation
-* Quick access to resources and contact information
-
-### Department Pages
-
-* Computer Science & Engineering (CSE)
-* Information Science & Engineering (ISE)
-* Electronics & Communication Engineering (ECE)
-* Department overview and placement information
-
-### Resources Page
-
-* VTU e-learning resources
-* NMAMIT academic resources
-* Useful educational links for students
-
-### Contact Page
-
-* Campus address
-* Institutional contact information
-* Administrative contact details
-
-### Login Page
-
-* Basic login form
-* Student information fields
-
----
-
-## Installation
+1. Clone the repository
 
 ```bash
-git clone https://github.com/AtmikaNayak/nmamit-frontend.git
+git clone <repository-url>
+```
 
+2. Open the project directory
+
+```bash
 cd nmamit-frontend
 ```
 
-Open:
+3. Launch `index.html` in a browser or use VS Code Live Server.
 
-```bash
-index.html
-```
+## Running Tests
 
-Or run using VS Code Live Server.
+No automated tests are configured for this project.
 
----
+## Integration Notes
 
-## Author
+This project can serve as a frontend template for educational institutions and can be extended with backend services for authentication, admissions, and resource management.
 
-### Atmika Nayak
+## Visuals
+
+### Home Page
+
+![Home](images/hoome.png)
+
+### Department Page
+
+![Department](images/department.png)
+
+### Contact Page
+
+![Contact](images/contact.png)
+
+## Live Demo
+
+https://atmikanayak.github.io/nmamit-frontend/
+
+## Additional Resources
+
+- NMAMIT Official Website: https://www.nmamit.in/
